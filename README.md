@@ -20,9 +20,9 @@ education:
     "Economics and Business Administration (One Year) @ NTNU Handelshøyskolen",
   ]
 
-fields_of_interests:
+fields_of_interest:
   [
-    "iOS App Development",
+    "iOS Development",
     "Software Architecture",
     "Machine Learning",
     "Computer Vision",
