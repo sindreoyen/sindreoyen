@@ -40,6 +40,11 @@ current_projects:
     "Propely iOS App: Powerful and Handheld Property and Tenant Management",
     "FreshCatch iOS App: Understanding the Freshwater Fish Landscape in Norway"
   ]
+
+open_sourced_repositories:
+  [
+    "NMEAParser"
+  ]
 ```
 
 
