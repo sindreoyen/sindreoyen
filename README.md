@@ -36,7 +36,7 @@ fields_of_interest:
   
 current_projects:
   [
-    "Towards High-Precision Road Object Detection on Edge Devices: The StreetSense iOS App",
+    "Towards High-Precision Road Object Mapping on Edge Devices: The StreetSense iOS App",
     "Propely iOS App: Powerful and Handheld Property and Tenant Management",
     "FreshCatch iOS App: Understanding the Freshwater Fish Landscape in Norway"
   ]
