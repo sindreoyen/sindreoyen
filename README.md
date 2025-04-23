@@ -43,7 +43,8 @@ current_projects:
 
 open_sourced_repositories:
   [
-    "NMEAParser"
+    "NMEAParser",
+    "SwiftGeographicLib"
   ]
 ```
 
