@@ -21,18 +21,6 @@ education:
     "Ingeniería Informática (One Year) @ Universidad de Sevilla",
     "Economics and Business Administration (One Year) @ NTNU Handelshøyskolen",
   ]
-
-fields_of_interest:
-  [
-    "iOS Development",
-    "Software Architecture",
-    "Machine Learning",
-    "Computer Vision",
-    "Data Science",
-    "UI/UX",
-    "DevOps",
-    "Web Development"
-  ]
   
 current_projects:
   [
