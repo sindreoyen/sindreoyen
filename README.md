@@ -6,8 +6,10 @@
   <a href="https://www.linkedin.com/in/sindre-oeyen/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
+  <a href="https://medium.com/@oyensindre">
+    <img height="50" src="https://github.com/user-attachments/assets/5893aa01-6ece-4a42-82e8-541e0983837b"/>
+  </a>
 </p>
-
 
 <h2> 👨🏻‍💻 &nbsp;TL;DR</h2>
 
