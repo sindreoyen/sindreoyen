@@ -16,7 +16,7 @@
 ```yaml
 name: Sindre L. Øyen
 located_in: Trondheim, Norway
-current_job: iOS Developer @ Propely
+work: Lead iOS Developer @ Propely
 education:
   [
     "Master of Science in Computer Science @ NTNU",
@@ -26,15 +26,9 @@ education:
   
 current_projects:
   [
-    "Towards High-Precision Road Object Mapping on Edge Devices: The StreetSense iOS App",
+    "Towards Precise Road Object Localization on Smartphones via GNSS-RTK and Visual Sensor Fusion: The StreetSense iOS App",
     "Propely iOS App: Powerful and Handheld Property and Tenant Management",
     "FreshCatch iOS App: Understanding the Freshwater Fish Landscape in Norway"
-  ]
-
-open_sourced_repositories:
-  [
-    "NMEAParser",
-    "SwiftGeographicLib"
   ]
 ```
 
