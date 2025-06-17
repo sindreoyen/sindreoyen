@@ -26,8 +26,8 @@ education:
   
 current_projects:
   [
-    "Towards Precise Road Object Localization on Smartphones via GNSS-RTK and Visual Sensor Fusion: The StreetSense iOS App",
     "Propely iOS App: Powerful and Handheld Property and Tenant Management",
+    "Real-Time Detection and Geo-Localization of Road Objects on iOS via GNSS-RTK and Visual Sensor Fusion",
     "FreshCatch iOS App: Understanding the Freshwater Fish Landscape in Norway"
   ]
 ```
