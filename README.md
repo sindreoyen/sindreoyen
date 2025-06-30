@@ -15,7 +15,7 @@
 
 ```yaml
 name: Sindre L. Øyen
-located_in: Trondheim, Norway
+located_in: Oslo, Norway
 work: iOS Developer at Propely
 education:
   [
