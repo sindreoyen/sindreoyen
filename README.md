@@ -16,12 +16,12 @@
 ```yaml
 name: Sindre L. Øyen
 located_in: Trondheim, Norway
-work: iOS Developer @ Propely
+work: iOS Developer at Propely
 education:
   [
-    "Master of Science in Computer Science @ NTNU",
-    "Ingeniería Informática (One Year) @ Universidad de Sevilla",
-    "Economics and Business Administration (One Year) @ NTNU Handelshøyskolen",
+    "Master of Science in Computer Science at NTNU",
+    "Ingeniería Informática (Exchange Year) at Universidad de Sevilla",
+    "Economics and Business Administration (One Year) at NTNU Business School",
   ]
   
 current_projects:
