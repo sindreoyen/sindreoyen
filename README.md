@@ -16,19 +16,12 @@
 ```yaml
 name: Sindre L. Øyen
 located_in: Oslo, Norway
-work: Lead iOS Developer at Propely
+work: iOS Developer at Vipps MobilePay
 education:
   [
     "Master of Science in Computer Science at NTNU",
     "Ingeniería Informática (Exchange Year) at Universidad de Sevilla",
     "Economics and Business Administration (One Year) at NTNU Business School",
-  ]
-  
-current_projects:
-  [
-    "Propely iOS App: Powerful and Handheld Property and Tenant Management",
-    "Real-Time Detection and Geo-Localization of Road Objects on iOS via GNSS-RTK and Visual Sensor Fusion",
-    "FreshCatch iOS App: Understanding the Freshwater Fish Landscape in Norway"
   ]
 ```
 
