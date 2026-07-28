@@ -35,7 +35,9 @@ education:
     <td colspan="2" valign="top">
       <h3>iOS + AI</h3>
       <p>
-        In my master's thesis, I explored how contemporary iPhones could provide a
+        Are you interested in how modern smartphone technology can solve real-world problems?
+        Are you interested in how modern smartphones can run AI inference and reduce the need for dedicated hardware?
+        ✨COOL✨, so am I! In my master's thesis, I explored how contemporary iPhones could provide a
         scalable system for collecting Norwegian road data in real time.
       </p>
       <p>
