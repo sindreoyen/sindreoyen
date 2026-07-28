@@ -33,9 +33,9 @@ education:
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🎓 Master's Thesis</h3>
+      <h3>Interested in iOS Development and AI? Take a look at my thesis!</h3>
       <p>
-        My master’s thesis explored how contemporary iPhones could provide a
+        In my master's thesis, I explored how contemporary iPhones could provide a
         scalable system for collecting Norwegian road data in real time.
       </p>
       <p>
@@ -50,7 +50,7 @@ education:
       </p>
       <p>
         <a href="https://nva.sikt.no/registration/019b266f5f6d-f137d851-14d3-41e3-84c8-bf1017416676">
-          <strong>Read the thesis →</strong>
+          <strong>Read it here →</strong>
         </a>
       </p>
     </td>
