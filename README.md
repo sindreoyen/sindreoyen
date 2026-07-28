@@ -33,7 +33,7 @@ education:
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3>Interested in iOS Development and AI? Take a look at my thesis!</h3>
+      <h3>iOS + AI</h3>
       <p>
         In my master's thesis, I explored how contemporary iPhones could provide a
         scalable system for collecting Norwegian road data in real time.
