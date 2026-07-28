@@ -20,19 +20,13 @@
 ```yaml
 name: Sindre L. Øyen
 located_in: Oslo, Norway
-current_position: iOS App Developer at Vipps MobilePay
+work: iOS App Developer at Vipps MobilePay
 
 education:
     [
         "Master of Science in Computer Science at NTNU (5 Years)",
         "Ingeniería Informática at Universidad de Sevilla (Exchange Year)",
         "Economics and Business Administration at NTNU Business School (1 Year)",
-    ]
-
-relevant_work:
-    [
-        "Vipps MobilePay (2026 - Now)": "Working on the iOS app of the most used payment service across the Nordic (12M+ users).",
-        "Propely (2022 - 2026)": "Joined early, built almost the entire iOS app +++, and saw the company grow >2000%."
     ]
 ```
 
