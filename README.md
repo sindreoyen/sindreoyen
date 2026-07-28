@@ -1,31 +1,71 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"
+    alt="Header"
+  />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sindre-oeyen/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-  </a>
-  <a href="https://medium.com/@oyensindre">
-    <img height="50" src="https://github.com/user-attachments/assets/5893aa01-6ece-4a42-82e8-541e0983837b"/>
+    <img
+      height="50"
+      src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;TL;DR</h2>
+<h2>👨🏻‍💻 &nbsp;TL;DR</h2>
 
 ```yaml
 name: Sindre L. Øyen
 located_in: Oslo, Norway
-work: iOS Developer at Vipps MobilePay
+current_position: iOS App Developer at Vipps MobilePay
+
 education:
-  [
-    "Master of Science in Computer Science at NTNU",
-    "Ingeniería Informática (Exchange Year) at Universidad de Sevilla",
-    "Economics and Business Administration (One Year) at NTNU Business School",
-  ]
+    [
+        "Master of Science in Computer Science at NTNU (5 Years)",
+        "Ingeniería Informática at Universidad de Sevilla (Exchange Year)",
+        "Economics and Business Administration at NTNU Business School (1 Year)",
+    ]
+
+relevant_work:
+    [
+        "Vipps MobilePay (2026 - Now)": "Working on the iOS app of the most used payment service across the Nordic (12M+ users).",
+        "Propely (2022 - 2026)": "Joined early, built almost the entire iOS app +++, and saw the company grow >2000%."
+    ]
 ```
 
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎓 Master's Thesis</h3>
+      <p>
+        My master’s thesis explored how contemporary iPhones could provide a
+        scalable system for collecting Norwegian road data in real time.
+      </p>
+      <p>
+        The solution combined bespoke computer-vision models trained on a
+        self-curated dataset, stereo-camera depth mapping, GNSS-RTK with NTRIP
+        corrections, and a fully native iOS application to detect, geo-position, 
+        and record road objects / road damages.
+      </p>
+      <p>
+        The thesis received the award for
+        <a href="https://www.ntnu.edu/ailab/master-s-thesis-award-2025"><strong>Best Master's Thesis in AI Applications (Norwegian Open AI Lab)</strong></a>.
+      </p>
+      <p>
+        <a href="https://nva.sikt.no/registration/019b266f5f6d-f137d851-14d3-41e3-84c8-bf1017416676">
+          <strong>Read the thesis →</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    alt="Footer"
+  />
 </p>
